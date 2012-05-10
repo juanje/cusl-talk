@@ -17,7 +17,7 @@
 # Resumiendo
 ## Cosas de las que hemos hablado
 
-Vale, al final sí hablé de terminos de moda :-P
+Vale, al final sí hablé de términos de moda :-P
 
 Les recomiendo buscar referencias en internet para conocer más sobre estos temas.
 
